@@ -30,6 +30,6 @@ USE "PAUSE" for the keep open the terminal.
 
 ## License
 
-Dee the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE.md](LICENSE.md) file for details
 
 Thanks.
