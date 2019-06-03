@@ -1,6 +1,6 @@
 # Metin2Work - Game Translator
 
-With this system you can translate your game. In particular the LC_TEXT () by relying on a local_string file.
+With this system you can translate your game. In particular the LC_TEXT() by relying on a local_string file.
 
 This allows you to completely remove Korean and be able to edit your local_string.txt file in utf-8 without any problem.
 
