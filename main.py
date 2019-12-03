@@ -37,7 +37,7 @@ if __name__ == "__main__":
 	for path, subdirectories, files in os.walk(srcDir):
 		for file in files:
 
-			with open(srcDir + file, 'r') as srcFile:
+			with open(srcDir + file, 'r', encoding="ISO8859") as srcFile:
 
 				file_content = ""
 				for (i, line) in enumerate(srcFile):
