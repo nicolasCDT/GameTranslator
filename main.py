@@ -46,7 +46,7 @@ if __name__ == "__main__":
 						lc_text = Get_LC_TEXT(line)
 						if lc_text and lc_text in default_translate_list:
 							line = line.replace(lc_text, default_translate_list[lc_text])
-							print(line)
+							# print(line) # Debug only
 						else:
 							print("WARNING: line not in locale_string: '%s'" % line)
 
