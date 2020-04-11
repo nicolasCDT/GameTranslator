@@ -1,4 +1,6 @@
-# Metin2Work - Game Translator
+# [Tools made for Game-Emulation](https://game-emulation.com/)
+You can be help to use this tools on [Game-Emulation](https://game-emulation.com/) ! 
+# Takuma - Game Translator
 
 With this system you can translate your game. In particular the LC_TEXT() by relying on a local_string file.
 
@@ -26,7 +28,7 @@ USE "PAUSE" for the keep open the terminal.
 
 ## Authors
 
-* Takuma - [Metin2Work](https://github.com/devTakuma)
+* Takuma - [GitHub](https://github.com/devTakuma)
 
 ## License
 
