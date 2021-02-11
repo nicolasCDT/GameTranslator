@@ -4,6 +4,8 @@ With this system you can translate your game. In particular the LC_TEXT() by rel
 
 This allows you to completely remove Korean and be able to edit your local_string.txt file in utf-8 without any problem.
 
+Script copied from one of Zenn I think? 
+
 ### Prerequisites
 
 To use it, you only need [Python 3.7](https://www.python.org/)
