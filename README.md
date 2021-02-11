@@ -1,4 +1,4 @@
-# Takuma - Game Translator
+#  Game Translator
 
 With this system you can translate your game. In particular the LC_TEXT() by relying on a local_string file.
 
