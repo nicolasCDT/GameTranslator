@@ -23,11 +23,6 @@ PAUSE
 ```
 USE "PAUSE" for the keep open the terminal.
 
-
-## Authors
-
-* Takuma - [GitHub](https://github.com/devTakuma)
-
 ## License
 
 See the [LICENSE.md](LICENSE.md) file for details
